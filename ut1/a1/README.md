@@ -4,7 +4,7 @@
 -  **Inicio**
   - Dentro de la máquina de producción, creamos las carpetas y archivos *html* necesarios.
 
-![imagen](./img/c5.png)
+![imagen](./img/C5.PNG)
 
    - Pongo cualquier línea de texto dentro, para tenerla escrita y luego seguir escribiendo.
 
