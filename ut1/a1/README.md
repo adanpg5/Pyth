@@ -2,7 +2,7 @@
 <hr>
 
 -  **Inicio**
-  - Dentro de la máquina de producción, creamos las carpetas y archivos *html* necesarios.
+  -  - Dentro de la máquina de producción, creamos las carpetas y archivos *html* necesarios.
 
 ![imagen](./img/C5.PNG)
 
