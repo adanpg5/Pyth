@@ -1,5 +1,6 @@
 # Mis series favoritas.
 <hr>
+
 -  Inicio
   - Dentro de la máquina de producción, creamos las carpetas y archivos *html* necesarios.
 ![imagen](./img/c5.PNG)
@@ -13,6 +14,7 @@
   - Y modificamos por último, el archivo *html* donde tenemos la "página web".
   ![imagen](./img/c7.PNG)
 <hr>
+
 -   Resultado
 
 ![imagen](./img/c8.PNG)
