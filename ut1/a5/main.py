@@ -37,8 +37,8 @@ if dinero_05x > 0:
     print (dinero_05x, "de 5€.")
 
 
-dinero_02 = dinero_10 % 2
-dinero_02x = dinero_10 // 2
+dinero_02 = dinero_05 % 2
+dinero_02x = dinero_05 // 2
 
 if dinero_02x > 0:
     print (dinero_02x, "de 2€.")
