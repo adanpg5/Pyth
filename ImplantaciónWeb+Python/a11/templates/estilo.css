@@ -1,0 +1,5 @@
+#contenedor {background-color:darkgray ; width: 835px ; margin: auto; border: 4px white solid;}
+
+#cabecera {background-color: blue; height: 50px; margin-top: -21px; color: white; animation-duration: 5s; animation-name: slidein;}
+
+#cabecera2 {background-color: gray; height: 30px; margin-top: -21px }
